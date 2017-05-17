@@ -1,19 +1,16 @@
 OpenCV examples in Python and C/C++
 ########################################
 
-Implementation of image processing algorithms using:
-* OpenCV v2.4.9
-* Python v2.7.6 - 2.7.12
-* NumPy v1.11.1
-* C++ 14
+Implementation of image processing algorithms. 
 
 
-.. Examples::
+
+.. contents::
 
 .. section-numbering::
 
 
-Python
+Python examples
 =============
 
 fouruer_transform
@@ -41,10 +38,19 @@ sharpening
 * dirs: sample
 * Example:
 
-C/C++
+C/C++ examples
 =============
 
 ...
 -----
 
 * ...
+
+
+Requirements
+=============
+
+* OpenCV v2.4.9
+* Python v2.7.6 - 2.7.12
+* NumPy v1.11.1
+* C++ 14
