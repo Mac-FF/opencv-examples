@@ -1,26 +1,25 @@
 OpenCV examples in Python and C/C++
 ########################################
 
-Implementation of image processing algorithms. 
-
-
+Development and implementation of image processing algorithms that help analyze and process digital images for Photogrammetry and Laser-based Vision Systems.
 
 .. contents::
 
 .. section-numbering::
 
 
+
 Python examples
 =============
 
-fouruer_transform
+fourier_transform
 -----
 
 * This module find the Fourier Transform of images in dir 'sample'
 * Can help to find laser glare, reflects and dots in images
 * Can remove or smooth reflects
-* files: fouruer_transform.py
-* dirs: sample
+* Files: fouruer_transform.py
+* Dirs: sample
 * Example:
 .. class:: no-web
 
@@ -34,9 +33,11 @@ sharpening
 
 * This module...
 * Can help...
-* files: sharpening.py
-* dirs: sample
+* Files: sharpening.py
+* Dirs: sample
 * Example:
+
+
 
 C/C++ examples
 =============
@@ -45,6 +46,7 @@ C/C++ examples
 -----
 
 * ...
+
 
 
 Requirements
