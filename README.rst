@@ -15,7 +15,7 @@ Python examples
 fourier_transform
 -----
 
-* This module find the Fourier Transform of images in dir 'sample'
+* This module find the Fourier Transform of images
 * Can help to find laser glare, reflects and dots in images
 * Can remove or smooth reflects
 * Files: fouruer_transform.py
@@ -27,7 +27,16 @@ fourier_transform
         :alt: alternate text
         :width: 100%
         :align: center
-		
+
+blur_detection
+-----
+
+* This module detect blurry images
+* Can help to find blurry and out off focus images
+* Some blurry images can be sharpened by special filter but it needs to implementation and adjust the band pass filter between threshold A > pass > B
+* Files: blur_detecion.py
+* Dirs: sample
+
 sharpening
 -----
 
