@@ -17,7 +17,7 @@ fourier_transform
 
 * This module find the Fourier Transform of images
 * Can help to find laser glare, reflects and dots in images
-* Can remove or smooth reflects
+* Can help to remove or smooth reflects
 * Files: fouruer_transform.py
 * Dirs: sample
 * Example:
@@ -32,7 +32,7 @@ blur_detection
 -----
 
 * This module detect blurry images
-* Can help to find blurry and out off focus images
+* Finds blurry and out off focus images
 * Some blurry images can be sharpened by special filter but it needs to implementation and adjust the band pass filter between threshold A > pass > B
 * Files: blur_detecion.py
 * Dirs: sample
@@ -40,11 +40,24 @@ blur_detection
 sharpening
 -----
 
-* This module...
-* Can help...
+* This module sharpens images
+
+Destiny:
+* Can help to find image edges
+* Sharpening blurry images
+* Improves performance of photogrammetric processing and  3D spatial data. For example it can be used before  Agisoft PhotoScan processing.
+
+Contents:
 * Files: sharpening.py
 * Dirs: sample
+
 * Example:
+.. class:: no-web
+
+    .. image:: sharpening_example.png
+        :alt: alternate text
+        :width: 100%
+        :align: center
 
 
 
