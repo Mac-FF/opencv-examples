@@ -41,16 +41,14 @@ sharpening
 -----
 
 + This module sharpens images
-
 + Destiny:
-
- - Can help to find image edges
- - Sharpening blurry images
- - Improves performance of photogrammetric processing and  3D spatial data. For example it can be used before  Agisoft PhotoScan processing.
+  - Can help to find image edges
+  - Sharpening blurry images
+  - Improves performance of photogrammetric processing and  3D spatial data. For example it can be used before  Agisoft PhotoScan processing.
  
 + Contents:
- - Files: sharpening.py
- - Dirs: sample
+  - Files: sharpening.py
+  - Dirs: sample
 + Example:
 .. class:: no-web
 
