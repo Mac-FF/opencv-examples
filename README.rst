@@ -1,7 +1,7 @@
 OpenCV examples in Python and C/C++
 ########################################
 
-Development and implementation of image processing algorithms that help analyze and process digital images for Photogrammetry and Laser-based Vision Systems.
+Process digital images with computer algorithms at Photogrammetry and Laser-based Vision Systems
 
 .. contents::
 
