@@ -1,6 +1,5 @@
 /**
-    CS-11 Asn 2, checks.cpp
-    main.cpp
+    CS-11 Asn 2, main.cpp
     Purpose: EXAMPLE - Use the OpenCV functions pyrUp and pyrDown
     to downsample or upsample a given image.
 
