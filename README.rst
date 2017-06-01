@@ -9,10 +9,10 @@ Development and implementation of image processing algorithms that help analyze 
 
 
 
-Python examples
+Python Examples
 =============
 
-fourier_transform
+Fourier Transform
 -----
 
 * This module find the Fourier Transform of images
@@ -28,7 +28,7 @@ fourier_transform
         :width: 100%
         :align: center
 
-blur_detection
+Blur Detection
 -----
 
 * This module detect blurry images
@@ -37,7 +37,7 @@ blur_detection
 * Files: blur_detecion.py
 * Dirs: sample
 
-sharpening
+Sharpening
 -----
 
 + This module sharpens images
@@ -68,17 +68,34 @@ sharpening
 C/C++ examples
 =============
 
-...
+Image Pyramids
 -----
 
-* ...
+* Program uses the OpenCV functions pyrUp and pyrDown to downsample or upsample given images in dir sample.
+* Files: bin/Depug/Image Pyramids, main.cpp
+* Dirs: sample
+* Example:
+.. class:: no-web
+
+    .. image:: name.png
+        :alt: alternate text
+        :width: 100%
+        :align: center
 
 
 
 Requirements
 =============
 
+Python
+-----
+
 * OpenCV v2.4.9
 * Python v2.7.6 - 2.7.12
 * NumPy v1.11.1
+
+C++
+-----
 * C++ 14
+* OpenCV v2.4.9
+* Boost v1.54.0
